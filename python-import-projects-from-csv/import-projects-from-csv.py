@@ -41,7 +41,7 @@ with open('sample-projects.csv') as csvfile:
 
         # make a request
         response = requests.post(
-            f"https://app.icproject.com/api/{instance_slug}/project/projects",
+            f"https://app.icproject.com/api/instance/{instance_slug}/project/projects",
             json=params,
             headers=headers,
         )
