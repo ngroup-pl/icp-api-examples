@@ -1,0 +1,5 @@
+email,firstName,lastName,canLogIn,phoneNumber,jobPosition,department,roleSets,hourlyRate
+john.doe@example.com,John,Doe,true,123-456-7890,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,30
+jane.smith@example.com,Jane,Smith,true,987-654-3210,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,25
+alice.johnson@example.com,Alice,Johnson,false,555-123-4567,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,3fa85f64-5717-4562-b3fc-2c963f66afa6,20
+bob.brown@example.com,Bob,Brown,true,555-765-4321,,3fa85f64-5717-4562-b3fc-2c963f66afa6,,40
