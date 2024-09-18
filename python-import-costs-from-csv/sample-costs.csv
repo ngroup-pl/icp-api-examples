@@ -1,0 +1,4 @@
+name,description,priceNet,priceGross,date,isBilled,isPosted,category,taxRate,taxRateValue,project
+"Office Supplies","Printer paper and ink",100,120,"2024-09-18",true,true,"Office","20%",20,"Project A"
+"Consulting","Consulting services for Q3",1500,1800,"2024-09-15",false,true,"Consulting","10%",10,"Test"
+"Travel","Flight tickets and accommodation",500,600,"2024-09-12",true,false,"Travel","23%",23,""
