@@ -1,0 +1,1 @@
+Exports unpaid invoices from IC Project to a format compatible with https://cashcollector.eu. Then sends them to email.
