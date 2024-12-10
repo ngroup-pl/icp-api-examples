@@ -1,0 +1,1 @@
+Download all invoices from ICP and save them to a folder.
